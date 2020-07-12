@@ -1,6 +1,6 @@
 {
-  "ssid": "AndroidAPD539",
-  "ssid_pass": "kken1271",
-  "user_mqtt": "loqotia",
-  "pass_mqtt": "Klv7143a!!"
+  "ssid": "WIFI",
+  "ssid_pass": "WIFI PASSWORD",
+  "user_mqtt": "MQTT USER",
+  "pass_mqtt": "MQTT PASSW"
 }
